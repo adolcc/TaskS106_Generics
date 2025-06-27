@@ -37,7 +37,7 @@ Java JDK 17 installed IntelliJ IDEA (Community or Ultimate) Git installed and co
 
 **Installation**
 
-Clone the repository to your local machine: git clone https://github.com/adolcc/TaskS105_JavaUtils
+Clone the repository to your local machine: git clone https://github.com/adolcc/TaskS106_Generics
 
 ---
 
