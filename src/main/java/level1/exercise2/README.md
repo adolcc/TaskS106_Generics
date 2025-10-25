@@ -1,4 +1,6 @@
-- Ejercicio 2
+Ejercicio 2  
+
+
 Crea una clase llamada Persona con los atributos nombre, apellido y edad. Después crea una clase llamada GenericMethods cuyo método genérico acepte tres argumentos de tipo genérico. Este método sólo debe imprimir por pantalla los argumentos que ha recibido. En el main() de la clase principal, llama al método genérico con diferentes tipos de parámetros.
 ___
 
